@@ -139,7 +139,7 @@ plt.show()
 
 
 
-### New Sample Data Prediction
+### New Sample Data Prediction:
 
 <img width="605" height="97" alt="626998588-dcad62ff-d034-41ed-98a2-a2ce7645b148" src="https://github.com/user-attachments/assets/2e67eb10-2f03-4d81-b529-3852013e622b" />
 
